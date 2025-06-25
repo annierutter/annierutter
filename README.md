@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Annie 👋</h1>
+
+<!-- Socials -->
+
+I'm a front-end developer specializing in React.
+
+## About Me
+
+
 
 <!--
 **annierutter/annierutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
