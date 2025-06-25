@@ -8,7 +8,7 @@ I'm a front-end developer specializing in React.
 
 - ✨ I am: Annie Rutter
 - :transgender_flag: My pronouns are: she/her
-- 🔭 I am currently working on: reacquanting myself with software development after a several year hiatus
+- 🔭 I am currently working on: reacquanting myself with software development after a two-year hiatus
 - 🌱 I am currently learning: to have grace for my shortcomings
 - ⚡ I am currently obsessed with: ⛸️ figure skating
 
