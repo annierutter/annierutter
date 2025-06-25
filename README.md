@@ -6,6 +6,8 @@ I'm a front-end developer specializing in React.
 
 ## About Me
 
+- ✨ I am: Annie Rutter
+- :transgender_flag: My pronouns are: she/her
 
 
 <!--
