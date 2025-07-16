@@ -13,6 +13,13 @@ I'm a front-end developer specializing in React.
 - ⚡ I am currently obsessed with: ⛸️ figure skating
 
 
+## My GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=annierutter&count_private=true&hide=stars" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annierutter&layout=compact" />
+
+
+
 <!--
 **annierutter/annierutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
